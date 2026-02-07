@@ -1,1 +1,0 @@
-Aspiring Data Analyst with expertise in data visualization, statistical analysis, and predictive modeling. Proficient in SQL, Python, Power BI, Excel and role-related analytical reports and dashboarding. Strong problem-solving skills, eager to apply analytical expertise in a data-driven environment.
