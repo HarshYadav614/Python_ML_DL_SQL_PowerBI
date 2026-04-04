@@ -1,1 +1,1 @@
-Data Scientist/Analyst with strong expertise in Statistical Modeling,Machine Learning,Deep Learning,MLOPS,DVC,AWS,GEN AI,LLMs,RAG and Data Visualisation to drive actionable insights and business value.
+Data Scientist/Analyst with strong expertise in Statistical Modeling,SQL,POWER BI,Machine Learning,Deep Learning,MLOPS,DVC,AWS,GEN AI,LLMs,RAG and Data Visualisation to drive actionable insights and business value.
